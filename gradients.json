@@ -1231,7 +1231,7 @@
     {
         "name": "Sin City Red",
         "colors": ["#ED213A", "#93291E"]
-    },    
+    },
     {
         "name": "Rastafari",
         "colors": ["#1E9600", "#FFF200", "#FF0000"]
@@ -1332,7 +1332,7 @@
         "name": "Cool Blues",
         "colors": ["#2193b0","#6dd5ed"]
     },
-    { 
+    {
         "name": "Piggy Pink",
         "colors": ["#ee9ca7","#ffdde1"]
     },
@@ -1340,4 +1340,9 @@
         "name": "Grade Grey",
         "colors": ["#bdc3c7","#2c3e50"]
     }
+    {
+      "name": "Jebaited",
+      "colors": ["#FBDA61","#FF5ACD"]
+    }
+]
 ]
